@@ -4,25 +4,25 @@
 
 
 <div id="badges" align="center">
-  <a href="https://open.spotify.com/user/8gjb1owyig7ql0bj3j6oqec0d">
+  <a href="https://open.spotify.com/user/31vwq4kmkaqqtbiuzuk3q6c6gaha">
     <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
   
-  <a href="https://www.youtube.com/channel/UC7AYptqi5h6SmiskmVPPvFw">
+  <a href="https://www.youtube.com/channel/UCR2YKbxrxcp-uBvVWrJdY3A">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   
-  <a href="https://twitter.com/alivedude893">
+  <a href="https://twitter.com/AliveDude3">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   
-  <a href="https://www.twitch.tv/alivedude893">
+  <a href="https://www.twitch.tv/alivedude3">
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=Twitch&logoColor=white"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=AliveMan3&style=flat-square&color=blue" alt=""/>
 </div>
 
 
