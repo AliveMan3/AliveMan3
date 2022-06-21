@@ -36,7 +36,7 @@
 I'm a game developer and designer who uses unity to develop games, I'm also a programmer who is genuinely interested in artificial intelligence and hacking stuff,
 I'm currently making my own dream game "Universal Breakdown" which I'll lunch on steam so stay tuned for that.
 
-- 🔭 I’m currently working on Escape n' time
+- 🔭 I’m currently working on Universal Breakdown
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: Did you know that bananas are yellow ?
 
