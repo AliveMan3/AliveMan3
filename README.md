@@ -37,7 +37,7 @@ I'm a game developer and designer who uses unity to develop games, I'm also a pr
 I'm currently making my own dream game "Universal Breakdown" which I'll lunch on steam so stay tuned for that.
 
 - 🔭 I’m currently working on Universal Breakdown
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML & css
 - ⚡ Fun fact: Did you know that bananas are yellow ?
 
 ---
