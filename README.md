@@ -49,6 +49,8 @@ I'm currently making my own dream game "Universal Breakdown" which I'll lunch on
   <img src="https://github.com/AliveMan3/SkillsetIcons/blob/main/C%2B%2B%20skill.png" width="150" height="150"/>&nbsp;
   <img src="https://github.com/AliveMan3/SkillsetIcons/blob/main/Python%20Skill.png" width="150" height="150"/>&nbsp;
   <img src="https://github.com/AliveMan3/SkillsetIcons/blob/main/Unity%20Skill.png" width="150" height="150"/>&nbsp;
+  <img src="https://github.com/AliveMan3/SkillsetIcons/blob/main/HTML%20Icon.png" width="150" height="150"/>&nbsp;
+  <img src="https://github.com/AliveMan3/SkillsetIcons/blob/main/CSS%20Icon.png" width="150" height="150"/>&nbsp;
 </div>
 
 ---
