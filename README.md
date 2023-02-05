@@ -4,10 +4,6 @@
 
 
 <div id="badges" align="center">
-  <a href="https://open.spotify.com/user/31vwq4kmkaqqtbiuzuk3q6c6gaha">
-    <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-  
   <a href="https://www.youtube.com/channel/UCR2YKbxrxcp-uBvVWrJdY3A">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
